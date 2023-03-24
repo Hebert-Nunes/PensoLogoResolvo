@@ -8,3 +8,4 @@ Um curso voltado para a lógica de programação que aborda os seguintes tópico
 -- D
 -- E
 -- F
+-- G
